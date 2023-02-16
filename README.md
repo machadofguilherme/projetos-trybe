@@ -32,7 +32,7 @@ Esse repositório contém todos os projetos que fiz como estudante da Trybe. Sã
 </details>
 
 <details>
-  <summary><strong>Projetos durante o módulo de Back-End</strong></summary><br />
+  <summary><strong>Projetos durante o módulo de Back-End</strong> *(em breve)*</summary><br />
 
   1. [Lista de Tarefas com Docker]()
   2. [All For One]()
@@ -44,6 +44,6 @@ Esse repositório contém todos os projetos que fiz como estudante da Trybe. Sã
 </details>
 
 <details>
-  <summary><strong>Projetos durante o módulo de Ciência da Computação</strong></summary><br />
+  <summary><strong>Projetos durante o módulo de Ciência da Computação</strong> *(em breve)*</summary><br />
 
 </details>
